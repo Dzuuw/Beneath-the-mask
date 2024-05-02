@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Gothic";
+    src: url("../fonts/OldLondon.ttf") format("truetype"), url("../fonts/OldLondonAlternate.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.preto{
+    background-color: rgb(10, 10, 10);
+    background-image: url("https://i.gifer.com/7JyU.gif");
+    background-blend-mode: multiply;
+    background-size: contain;
+}
+
+.aaa{
+    background-image:url("https://i.pinimg.com/736x/4a/13/e1/4a13e1d80f844602befbf80076ddc097.jpg");
+    background-size: cover;
+    height: 400px;
+    background-position: center 50%;
+    background-color: rgb(255, 0, 0);
+    background-blend-mode: multiply;
+    
+}
+
+.titulo{
+    font-family:"Gothic";
+    color: rgb(241, 217, 217);
+    font-size: 180px;
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    top: 20%;
+    bottom: 0%;
+}
+
+.father{
+    position: relative;
+}
+
+.paragrafo{
+    margin-top: 190px;
+    background-color: rgba(248, 61, 61, 0.158);
+    color: white;
+    border: 1px white solid;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+}
+
+.sub-titulo{
+    font-family: "Gothic";
+}
+
+.retrato{
+    background-image: url("https://m.media-amazon.com/images/I/41VxRil9CKS.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.link{
+    text-decoration: underline;
+    color: red;
+}
